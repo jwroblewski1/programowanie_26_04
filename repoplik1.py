@@ -10,3 +10,5 @@ if odpowiedz == tak:
   
 elif odpowiedz == nie:
   print("No trudno")
+else:
+  print("Źle wpisałeś")
