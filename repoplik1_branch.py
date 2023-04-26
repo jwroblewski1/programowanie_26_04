@@ -10,3 +10,8 @@ elif odpowiedz == nie:
   print("No trudno")
 
 print("Dziękuję za uzupełnienie danych.")
+zmienna_blaszak = int(input())
+if zmienna_blaszak = 1:
+  print("Działa")
+else:
+  print("Niedzieała")
