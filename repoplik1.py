@@ -9,6 +9,6 @@ if odpowiedz == tak:
   input("Podaj imie:" )
   
 elif odpowiedz == nie:
-  print("No trudno")
+  print("No trudno, sami się dowiemy...")
 else:
   print("Źle wpisałeś")
