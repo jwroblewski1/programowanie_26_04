@@ -4,9 +4,9 @@ print("Cześć " ,imie, " !")
 
 print("Czy chcesz podać swój wiek?")
 odpowiedz = input()
-
 if odpowiedz == tak:
   input("Podaj imie:" )
-  
 elif odpowiedz == nie:
   print("No trudno")
+
+print("Dziękuję za uzupełnienie danych.")
